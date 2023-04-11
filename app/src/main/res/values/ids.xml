@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="progressBar" type="id" />
+    <item name="imageView1" type="id" />
+    <item name="imageView2" type="id" />
+    <item name="text1" type="id" />
+    <item name="button1" type="id" />
+    <item name="button2" type="id" />
+    <item name="button3" type="id" />
+    <item name="button4" type="id" />
+
+</resources>
